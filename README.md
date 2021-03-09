@@ -1,8 +1,8 @@
 # Cloth-Up_MVP
-Prototype of Cloth-Up application
-Built by using Dart and Flutter
-Created web version using Flutter-Web
-Confirmed it runs on Android/iOS/Web
+Prototype of Cloth-Up application <br>
+Built by using Dart and Flutter <br>
+Created web version using Flutter-Web <br>
+Confirmed it runs on Android/iOS/Web <br>
 <br>
 <img width="430" alt="KakaoTalk_20210309_170317378" src="https://user-images.githubusercontent.com/50165633/110438495-c8435500-80f9-11eb-81d4-c5ca8569501d.png">
 <br>
