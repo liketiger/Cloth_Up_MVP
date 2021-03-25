@@ -1,5 +1,5 @@
 # Cloth-Up_MVP
-Prototype of Cloth-Up application <br>
+MVP of Cloth-Up application <br>
 Built by using Dart and Flutter <br>
 Created web version using Flutter-Web <br>
 Confirmed it runs on Android/iOS/Web based on same code <br>
